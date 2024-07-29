@@ -110,7 +110,6 @@ pydeck==0.9.1
 pydub==0.25.1
 Pygments==2.18.0
 pyttsx3==2.90
-pytz==2024.1
 pytzdata==2024.1
 requests==2.31.0
 scipy==1.10.1
